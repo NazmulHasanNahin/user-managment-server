@@ -67,7 +67,7 @@ async function run() {
                     age:user.age,
                     yob:user.yob,
                     fathername:user.fathername,
-                    name:user.mothername,
+                    mothername:user.mothername,
 
                 }
             };
