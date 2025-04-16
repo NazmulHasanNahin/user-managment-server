@@ -108,5 +108,5 @@ app.get("/", (req, res) => {
 
 
 app.listen(port, () => {
-    console.log(`coffe server is running on port: ${port}`);
+    console.log(`user server is running on port: ${port}`);
 })
